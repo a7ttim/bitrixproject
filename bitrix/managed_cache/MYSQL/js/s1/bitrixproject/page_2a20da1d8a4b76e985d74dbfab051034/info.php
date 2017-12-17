@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/main.colorpicker/templates/.default/script.js" => "15131403945081",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
