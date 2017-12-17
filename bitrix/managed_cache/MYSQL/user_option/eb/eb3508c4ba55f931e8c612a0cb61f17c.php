@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001513103240';
-$dateexpire = '001513106840';
-$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";N;}';
+$datecreate = '001513154948';
+$dateexpire = '001513158548';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:1:{s:38:"size_/bitrix/admin/component_props.php";a:2:{s:5:"width";s:4:"1141";s:6:"height";s:3:"532";}}}';
 return true;
 ?>

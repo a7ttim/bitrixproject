@@ -2,100 +2,26 @@
 require($_SERVER['DOCUMENT_ROOT'].'/bitrix/header.php');
 $APPLICATION->SetTitle('Главная');
 ?>
+
     <!-- Main -->
     <div id="main">
 
-        <!-- Featured Post -->
-        <article class="post featured">
+        <!-- Post -->
+        <section class="post">
             <header class="major">
                 <span class="date">April 25, 2017</span>
-                <h2><a href="#">And this is a<br />
-                        massive headline</a></h2>
+                <h1>This is a<br />
+                    Generic Page</h1>
                 <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
                     facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
                     amet nullam sed etiam veroeros.</p>
             </header>
-            <a href="#" class="image main"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic01.jpg" alt="" /></a>
-            <ul class="actions">
-                <li><a href="#" class="button big">Full Story</a></li>
-            </ul>
-        </article>
-
-        <!-- Posts -->
-        <section class="posts">
-            <article>
-                <header>
-                    <span class="date">April 24, 2017</span>
-                    <h2><a href="#">Sed magna<br />
-                            ipsum faucibus</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic02.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
-            <article>
-                <header>
-                    <span class="date">April 22, 2017</span>
-                    <h2><a href="#">Primis eget<br />
-                            imperdiet lorem</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic03.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
-            <article>
-                <header>
-                    <span class="date">April 18, 2017</span>
-                    <h2><a href="#">Ante mattis<br />
-                            interdum dolor</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic04.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
-            <article>
-                <header>
-                    <span class="date">April 14, 2017</span>
-                    <h2><a href="#">Tempus sed<br />
-                            nulla imperdiet</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic05.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
-            <article>
-                <header>
-                    <span class="date">April 11, 2017</span>
-                    <h2><a href="#">Odio magna<br />
-                            sed consectetur</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic06.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
-            <article>
-                <header>
-                    <span class="date">April 7, 2017</span>
-                    <h2><a href="#">Augue lorem<br />
-                            primis vestibulum</a></h2>
-                </header>
-                <a href="#" class="image fit"><img src="<?=SITE_TEMPLATE_PATH?>/images/pic07.jpg" alt="" /></a>
-                <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis magna etiam.</p>
-                <ul class="actions">
-                    <li><a href="#" class="button">Full Story</a></li>
-                </ul>
-            </article>
+            <div class="image main"><img src="../bitrixproject/images/pic01.jpg" alt="" /></div>
+            <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur sapien risus, commodo eget turpis at, elementum convallis enim turpis, lorem ipsum dolor sit amet nullam.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus. Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum.</p>
         </section>
+
+    </div>
 <?
 require($_SERVER['DOCUMENT_ROOT'].'/bitrix/footer.php');
 ?>
