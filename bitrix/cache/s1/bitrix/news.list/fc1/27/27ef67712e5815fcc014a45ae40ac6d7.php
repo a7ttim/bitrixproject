@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001513154948';
-$dateexpire = '001549154948';
-$ser_content = 'a:2:{s:7:"CONTENT";s:481:"<div class="news-list">
+$datecreate = '001513523815';
+$dateexpire = '001549523815';
+$ser_content = 'a:2:{s:7:"CONTENT";s:471:"<div class="news-list">
 		<p class="news-item" id="bx_3218110189_2">
 							<span class="news-date-time">13.12.2017</span>
 											<a href="/news/php/uchus-zapolnyat-infoblok"><b>Учусь заполнять инфоблок</b></a><br />

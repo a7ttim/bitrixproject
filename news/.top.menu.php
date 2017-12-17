@@ -1,15 +1,22 @@
 <?
 $aMenuLinks = Array(
 	Array(
-		"О нас", 
-		"/news/ob-avtore.php", 
+		"Главная", 
+		"/", 
 		Array(), 
 		Array(), 
 		"" 
 	),
 	Array(
-		"Тест", 
-		"/news/test.php", 
+		"Новости", 
+		"/news/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Обратная связь", 
+		"/feedback/", 
 		Array(), 
 		Array(), 
 		"" 
